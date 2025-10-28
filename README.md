@@ -1,6 +1,6 @@
 ### Hi there, I'm Nate 👋
 
-Thanks for checking out my GitHub profile! I am currently a Technical Director at ESPN and a graduate from the University of Connecticut's full stack web developer bootcamp. I am eagerly learning all I can about coding and software developement. Below you'll find some of my favorite bootcamp projects I worked on.  
+Thanks for checking out my GitHub profile! I am currently a Demonstrator & Trainer - OverDrive for Ross Video and a graduate from the University of Connecticut's full stack web developer bootcamp. I am eagerly learning all I can about coding and software developement. Below you'll find some of my favorite bootcamp projects I worked on.  
 
 I'm currently enrolled at Dakota State University to pursue a Bachelors of Science in Computer Science. On top of all that I also took courses through Udemy to further my knowledge on JavaScript.
 
